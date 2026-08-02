@@ -1,4 +1,7 @@
 package com.bit.slidingWindows;
 
-public class palindromeSequnece {
-}
+//public class palindromeSequence {
+//    public String longestPalindrome(String s) {
+//
+//    }
+//}
